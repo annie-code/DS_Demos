@@ -1,0 +1,10 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\bin\Debug\netcoreapp3.1\QuickSort2.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\bin\Debug\netcoreapp3.1\QuickSort2.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\bin\Debug\netcoreapp3.1\QuickSort2.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\bin\Debug\netcoreapp3.1\QuickSort2.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\bin\Debug\netcoreapp3.1\QuickSort2.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\bin\Debug\netcoreapp3.1\QuickSort2.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\obj\Debug\netcoreapp3.1\QuickSort2.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\obj\Debug\netcoreapp3.1\QuickSort2.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\obj\Debug\netcoreapp3.1\QuickSort2.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\QuickSort2\obj\Debug\netcoreapp3.1\QuickSort2.pdb

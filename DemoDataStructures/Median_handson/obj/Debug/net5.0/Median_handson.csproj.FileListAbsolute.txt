@@ -1,0 +1,16 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\Median_handson.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\Median_handson.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\Median_handson.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\Median_handson.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\Median_handson.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\ref\Median_handson.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\bin\Debug\net5.0\Median_handson.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\ref\Median_handson.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\Median_handson\obj\Debug\net5.0\Median_handson.genruntimeconfig.cache

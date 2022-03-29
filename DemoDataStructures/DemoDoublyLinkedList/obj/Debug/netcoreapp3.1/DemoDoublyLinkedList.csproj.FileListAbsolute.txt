@@ -1,0 +1,11 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\bin\Debug\netcoreapp3.1\DemoDoublyLinkedList.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\bin\Debug\netcoreapp3.1\DemoDoublyLinkedList.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\bin\Debug\netcoreapp3.1\DemoDoublyLinkedList.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\bin\Debug\netcoreapp3.1\DemoDoublyLinkedList.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\bin\Debug\netcoreapp3.1\DemoDoublyLinkedList.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\bin\Debug\netcoreapp3.1\DemoDoublyLinkedList.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\obj\Debug\netcoreapp3.1\DemoDoublyLinkedList.csprojAssemblyReference.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\obj\Debug\netcoreapp3.1\DemoDoublyLinkedList.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\obj\Debug\netcoreapp3.1\DemoDoublyLinkedList.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\obj\Debug\netcoreapp3.1\DemoDoublyLinkedList.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoDoublyLinkedList\obj\Debug\netcoreapp3.1\DemoDoublyLinkedList.pdb

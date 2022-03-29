@@ -1,0 +1,14 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\bin\Debug\netcoreapp3.1\DemoBinaryTree.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\bin\Debug\netcoreapp3.1\DemoBinaryTree.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\bin\Debug\netcoreapp3.1\DemoBinaryTree.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\bin\Debug\netcoreapp3.1\DemoBinaryTree.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\bin\Debug\netcoreapp3.1\DemoBinaryTree.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\bin\Debug\netcoreapp3.1\DemoBinaryTree.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.csproj.AssemblyReference.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoBinaryTree\obj\Debug\netcoreapp3.1\DemoBinaryTree.genruntimeconfig.cache

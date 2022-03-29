@@ -1,0 +1,10 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\bin\Debug\netcoreapp3.1\BinarySearch.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\BinarySearch\obj\Debug\netcoreapp3.1\BinarySearch.pdb

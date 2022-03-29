@@ -1,0 +1,10 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoAlgorith\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.pdb

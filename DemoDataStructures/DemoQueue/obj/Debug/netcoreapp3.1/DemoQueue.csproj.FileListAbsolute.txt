@@ -1,0 +1,13 @@
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\bin\Debug\netcoreapp3.1\DemoQueue.exe
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\bin\Debug\netcoreapp3.1\DemoQueue.deps.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\bin\Debug\netcoreapp3.1\DemoQueue.runtimeconfig.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\bin\Debug\netcoreapp3.1\DemoQueue.runtimeconfig.dev.json
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\bin\Debug\netcoreapp3.1\DemoQueue.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\bin\Debug\netcoreapp3.1\DemoQueue.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.AssemblyInfoInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.AssemblyInfo.cs
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.dll
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.pdb
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.GeneratedMSBuildEditorConfig.editorconfig
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.csproj.CoreCompileInputs.cache
+F:\ContentDevelopment\IIHT\DS&Algorithm\Demos\DemoDataStructures\DemoQueue\obj\Debug\netcoreapp3.1\DemoQueue.genruntimeconfig.cache
